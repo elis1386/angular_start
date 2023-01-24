@@ -1,0 +1,22 @@
+
+
+.container{
+    max-width: 1240px;
+    margin: 0 auto;
+    padding-top: 3rem;
+}
+h1{
+    text-align: center;
+    color: rgb(198, 7, 7);
+}
+.toggle{
+    padding: .8em 1rem;
+    background-color: rgb(244, 190, 28);
+    border: none;
+    color: rgb(65, 63, 63);
+    display: block;
+    margin: 1rem auto;
+}
+.section{
+    margin-bottom: 3rem;
+}

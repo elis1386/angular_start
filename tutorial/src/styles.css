@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css?family=Dancing+Script:wght@500&display=swap');
+
+form{
+    font-family: 'Dancing Script', cursive;
+}
+figure{
+    margin: 0;
+}
+img{
+    width: 150px;
+}
